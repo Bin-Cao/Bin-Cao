@@ -1,5 +1,5 @@
+![zxc](https://user-images.githubusercontent.com/86995074/202620167-16ddb829-bdcf-41d2-9703-f6f531c3cefd.jpeg)
 
-![zxc](https://user-images.githubusercontent.com/86995074/202620072-06fdec3e-7355-4c33-98d6-23702a3782d5.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
