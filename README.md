@@ -1,6 +1,5 @@
-![4db4dc99f2fe9e985cc314aa79503d1b](https://user-images.githubusercontent.com/86995074/202619109-8defcf7c-b5b2-4942-9fe3-14e276bcbf00.gif)
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+![zxc](https://user-images.githubusercontent.com/86995074/202620072-06fdec3e-7355-4c33-98d6-23702a3782d5.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
