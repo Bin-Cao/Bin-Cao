@@ -11,5 +11,5 @@
 
 
 ## Contact
-+ email : bcao@shu.edu.cn
-+ wechat : Jacobchill (add a request)
++ Email : bcao@shu.edu.cn
++ WeChat : Jacobchill (add a request)
