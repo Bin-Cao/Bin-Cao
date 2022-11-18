@@ -9,6 +9,9 @@
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
 </p>
 
+## Skills and expertise
+Machine Learning ; X-ray Diffraction ; Metal Oxidation
+
 
 ## Contact
 + Email : bcao@shu.edu.cn
