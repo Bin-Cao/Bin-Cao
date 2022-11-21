@@ -28,5 +28,5 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 ## Contact
 + 📨 Email : bcao@shu.edu.cn
-+ 📲 WeChat ID: Jacobchill (add a request)
+
 
