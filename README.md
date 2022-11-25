@@ -1,8 +1,8 @@
 # Hi there, I am Bin CAO  💁🏼 💻
-📝 In God we trust, all others bring data. -- William Edwards Deming (1900-1993)
+📝     
+In God we trust, all others bring data. -- William Edwards Deming
 
-<div align=center><img src="https://user-images.githubusercontent.com/86995074/202620645-d4dee7e1-602a-4579-bfd7-2afbac94f40a.gif"></div>
-
+<div align=center><img src="https://user-images.githubusercontent.com/86995074/203887474-255557ed-8d9a-4905-af9f-ab03da6bf0b0.gif"></div>
 
 <a href=#><img src="contributions.svg"></a>
 
@@ -28,5 +28,5 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 ## Contact
 + 📨 Email : bcao@shu.edu.cn
-+ 📲 WeChat ID: Jacobchill (add a request)
+
 
