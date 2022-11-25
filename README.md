@@ -1,5 +1,6 @@
 # Hi there, I am Bin CAO  💁🏼 💻
-📝     In God we trust, all others bring data. -- William Edwards Deming
+📝     
+In God we trust, all others bring data. -- William Edwards Deming
 
 <div align=center><img src="https://user-images.githubusercontent.com/86995074/203887474-255557ed-8d9a-4905-af9f-ab03da6bf0b0.gif"></div>
 
