@@ -12,21 +12,13 @@ In God we trust, all others bring data. -- William Edwards Deming
 
 
 
-</a>
-<a href="https://pypi.org/user/Bin-Cao/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
-</a>
-
 <br/> 
 
 <!-- <a href="https://github.com/drkostas">
     <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-<a href="https://github.com/drkostas">
+<a href="https://github.com/Bin-Cao">
     <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
