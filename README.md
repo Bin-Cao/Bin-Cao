@@ -22,6 +22,9 @@ In God we trust, all others bring data. -- William Edwards Deming
 ## Skills and expertise
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
+## paper published 
+see ResearchGate (updating): researchgate.net/profile/Bin-Cao-37
+
 ## Programming languages 
 <br>
 
