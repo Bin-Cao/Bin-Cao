@@ -23,7 +23,7 @@ In God we trust, all others bring data. -- William Edwards Deming
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 ## paper published 
-see [ResearchGate](researchgate.net/profile/Bin-Cao-37) (updating)
+see [ResearchGate](https://www.researchgate.net/profile/Bin-Cao-37)
 
 ## Programming languages 
 <br>
