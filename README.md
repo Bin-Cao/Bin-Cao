@@ -11,6 +11,13 @@ In God we trust, all others bring data. -- William Edwards Deming
 </p>
 
 
+## Novel Machine learning algorithms
++ TCLR : TCLR is a tree model to distinguish the mechanisms of data
++ TCGPR : Machine Learning Algorithm for identifying outliers
++ WPEM (not yet open-sourced) : A X-ray Diffraction Refinement Software
+
+## Developed package
++ Bgolearn : A Bayesian global optimization package for material design
 
 ## Skills and expertise
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
