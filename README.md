@@ -12,7 +12,7 @@ In God we trust, all others bring data. -- William Edwards Deming
 
 
 ## Novel Machine learning algorithms
-+ TCLR : TCLR is a tree model to distinguish the mechanisms of data
++ TCLR : A tree model to distinguish the mechanisms of data
 + TCGPR : Machine Learning Algorithm for identifying outliers
 + WPEM (not yet open-sourced) : A X-ray Diffraction Refinement Software
 
