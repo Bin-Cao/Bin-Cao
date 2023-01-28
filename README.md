@@ -18,6 +18,7 @@ In God we trust, all others bring data. -- William Edwards Deming
 
 ## Developed package
 + Bgolearn : A Bayesian global optimization package for material design
++ TrAdaBoost : Boosting for transfer learning with single / multiple source(s)
 
 ## Skills and expertise
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
