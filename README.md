@@ -1,7 +1,7 @@
 # Hi there, I am Bin CAO  💁🏼 💻
 In God we trust, all others bring data. -- William Edwards Deming
 
-<div align=center><img src="https://user-images.githubusercontent.com/86995074/203887474-255557ed-8d9a-4905-af9f-ab03da6bf0b0.gif"></div>
+<div align=center><img src="https://user-images.githubusercontent.com/86995074/215960380-165218b7-f14f-4967-9eec-ee720e301960.gif"></div>
 
 <a href=#><img src="contributions.svg"></a>
 
@@ -19,6 +19,7 @@ In God we trust, all others bring data. -- William Edwards Deming
 ## Developed package
 + Bgolearn : A Bayesian global optimization package for material design
 + TrAdaBoost : Boosting for transfer learning with single / multiple source(s)
+
 
 ## Skills and expertise
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
