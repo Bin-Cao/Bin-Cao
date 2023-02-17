@@ -40,6 +40,6 @@ see [ResearchGate](https://www.researchgate.net/profile/Bin-Cao-37)
 
 
 ## Contact
-+ 📨 Email : bcao@shu.edu.cn
++ 📨 Email : binjacobcao@gmail.com
 
 
