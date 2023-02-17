@@ -1,9 +1,9 @@
 # Hi there, I am Bin CAO  💁🏼 💻
-### In God we trust, all others bring data. -- William Edwards Deming
 
 [![](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
 [![](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 
+### In God we trust, all others bring data. -- William Edwards Deming
 
 <div align=center><img src="https://user-images.githubusercontent.com/86995074/215960380-165218b7-f14f-4967-9eec-ee720e301960.gif"></div>
 
@@ -27,9 +27,6 @@
 
 ## Skills and expertise
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
-
-## Paper published 
-see [ResearchGate](https://www.researchgate.net/profile/Bin-Cao-37)
 
 ## Programming languages 
 <br>
