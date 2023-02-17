@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/WPEM-GitHub-green)](https://github.com/Bin-Cao/WPEM)
 
 
-## Skills and expertise
+## Skills
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 ## Programming languages 
