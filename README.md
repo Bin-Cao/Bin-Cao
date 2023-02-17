@@ -14,18 +14,6 @@
 [![](https://img.shields.io/badge/WPEM-GitHub-green)](https://github.com/Bin-Cao/WPEM)
 
 
-### In God we trust, all others bring data. -- William Edwards Deming
-
-<div align=center><img src="https://user-images.githubusercontent.com/86995074/215960380-165218b7-f14f-4967-9eec-ee720e301960.gif"></div>
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
-</p>
-
-
 ## Skills and expertise
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
@@ -45,3 +33,14 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 + 📨 Email : binjacobcao@gmail.com
 
 
+
+### In God we trust, all others bring data. -- William Edwards Deming
+
+<div align=center><img src="https://user-images.githubusercontent.com/86995074/215960380-165218b7-f14f-4967-9eec-ee720e301960.gif"></div>
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
+</p>
