@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
 [![](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 [![](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
-[![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/manage/projects/)
+[![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
 
 ### My open source package: 
 
