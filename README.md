@@ -7,7 +7,7 @@
 
 ### My open source package: 
 
-[![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLR)
+[![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 [![](https://img.shields.io/badge/TCGPR-GitHub-green)](https://github.com/Bin-Cao/TCGPR)
 [![](https://img.shields.io/badge/Bgolearn-GitHub-green)](https://github.com/Bin-Cao/Bgolearn)
 [![](https://img.shields.io/badge/TrAdaBoost-GitHub-green)](https://github.com/Bin-Cao/TrAdaboost)
