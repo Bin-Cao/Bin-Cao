@@ -7,8 +7,12 @@
 
 ### My open source package: 
 
-[![](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
-[![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/manage/projects/)
+[![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLR)
+[![](https://img.shields.io/badge/TCGPR-GitHub-green)](https://github.com/Bin-Cao/TCGPR)
+[![](https://img.shields.io/badge/Bgolearn-GitHub-green)](https://github.com/Bin-Cao/Bgolearn)
+[![](https://img.shields.io/badge/TrAdaBoost-GitHub-green)](https://github.com/Bin-Cao/TrAdaboost)
+[![](https://img.shields.io/badge/WPEM-GitHub-green)](https://github.com/Bin-Cao/WPEM)
+
 
 ### In God we trust, all others bring data. -- William Edwards Deming
 
