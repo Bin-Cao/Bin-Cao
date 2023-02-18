@@ -30,6 +30,13 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 <br>
 
+<details>
+<summary>research</summary>
+<pre><code>
+System.out.println("Hello to see U!");
+</code></pre>
+</details>
+
 
 ## Contact
 + 📨 Email : binjacobcao@gmail.com
