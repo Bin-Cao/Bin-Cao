@@ -30,8 +30,9 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 <br>
 
+## Research
 <details>
-<summary>research</summary>
+<summary>Patent & Software Copyright</summary>
 <pre><code>
 System.out.println("Hello to see U!");
 </code></pre>
