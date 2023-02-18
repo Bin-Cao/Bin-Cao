@@ -30,14 +30,6 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 <br>
 
-## Patent & Software Copyright
-<details>
-<summary>Show</summary>
-+ fff
-+ fff
-</details>
-
-
 ## Contact
 + 📨 Email : binjacobcao@gmail.com
 
