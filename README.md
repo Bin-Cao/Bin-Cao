@@ -40,3 +40,6 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
 </p>
+
+
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1626904646967132160.svg)](https://www.murphysec.com/accept?code=645babf2266d3ebb42b1005074b53306&type=1&from=2)
