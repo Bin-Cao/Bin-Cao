@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/TrAdaBoost-GitHub-green)](https://github.com/Bin-Cao/TrAdaboost)
 [![](https://img.shields.io/badge/WPEM-GitHub-green)](https://github.com/Bin-Cao/WPEM)
 
-🤝🤝🤝 Please star ⭐️ them for promoting open source projects 🌍 !
+🤝🤝🤝 Please star ⭐️ them for promoting open source projects 🌍 ! Thanks !
 
 ## Skills
 Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
