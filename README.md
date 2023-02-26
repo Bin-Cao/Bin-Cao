@@ -1,4 +1,4 @@
-# Hi there, My name is Bin CAO  💁🏼 💻
+# Hi there, I am Bin CAO  💁🏼 💻
 
 ### In God we trust, all others bring data. -- William Edwards Deming
 
