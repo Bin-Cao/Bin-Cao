@@ -33,6 +33,7 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 ## Contact
 + 📨 Email : binjacobcao@gmail.com
++ 欢迎与我联系，开展交流合作：曹斌（bcao@shu.edu.cn）
 
 <a href=#><img src="contributions.svg"></a>
 
