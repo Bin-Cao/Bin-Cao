@@ -18,7 +18,9 @@
 🤝🤝🤝 Please star ⭐️ them for promoting open source projects 🌍 ! Thanks !
 
 ## Skills
-Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
++ Machine Learning 
++ X-ray Diffraction Refinement 
++ Metal Oxidation
 
 ## Programming languages 
 <br>
