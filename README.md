@@ -37,6 +37,9 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 + 👨‍🎓 2020-2023 : Shanghai University / Master
 + 👨‍🎓 2016-2020 : Beijing University of Chemical Technology / Bachelor
 
+## Languages
++ Mandarin Chinese (Native Speaker)
++ English (C1-C2 level)
 
 ## Contact
 + 📨 Email : binjacobcao@gmail.com
