@@ -31,7 +31,7 @@ Machine Learning ; X-ray Diffraction Refinement ; Metal Oxidation
 
 <br>
 
-## Experiences
+## Experience
 + 👨‍🎓 2023-     : Hong Kong University of Science and Technology(GZ）/ PHD student 
 + 👨‍💻 2023-2023 : Zhejiang LAB / Assistant researcher
 + 👨‍🎓 2020-2023 : Shanghai University / Master
