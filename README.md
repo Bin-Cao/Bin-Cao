@@ -35,7 +35,7 @@
 
 ## Experience
 + 👨‍🎓 2023.9-     : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
-+ 👨‍💻 2023.3-2023.9 : Zhejiang LAB / Assistant researcher / Hangzhou, China
++ 👨‍💻 2023.3-2023.9 : Zhejiang LAB / Intern / Hangzhou, China
 + 👨‍🎓 2020.9-2023.6 : Shanghai University / Mphil / Shanghai, China
 + 👨‍🎓 2016.9-2020.6 : Beijing University of Chemical Technology / Bachelor / Beijing, China
 
