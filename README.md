@@ -6,7 +6,7 @@
 
 ### In God we trust, all others bring data. -- William Edwards Deming
 
-### My open source package: 
+### Open source package: 
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 [![](https://img.shields.io/badge/TCGPR-GitHub-green)](https://github.com/Bin-Cao/TCGPR)
