@@ -1,22 +1,24 @@
 
   
 # Hi there, I am Bin CAO | 曹斌  💻
+
+<p align="center">
+<a href="https://github.com/Bin-Cao">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+FocusOn+XRDdiffraction;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
+</a>
+<br/>
+ 
+<a href="https://github.com/Bin-Cao">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+ 
 [![](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
 [![](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 [![](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
 [![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
 
 ### In God we trust, all others bring data. -- William Edwards Deming
-
-<a href="https://github.com/Bin-Cao">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-<p align="center">
-<a href="https://github.com/Bin-Cao">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
-</a>
-<br/>
 
 
 ### Open source package: 
