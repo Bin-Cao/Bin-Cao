@@ -47,15 +47,10 @@
 ---
 
 <div>
-  <img height="190" align="left" src="https://github-readme-stats.vercel.app/api?username=Bin-Cao&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Bin-Cao&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact" />
 </div>
 
-
-
----
-
-![](https://activity-graph.herokuapp.com/graph?username=Bin-Cao&theme=github)
 
 ---
 
