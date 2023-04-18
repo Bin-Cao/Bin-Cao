@@ -2,7 +2,7 @@
   
 # Hi there, I am Bin CAO | 曹斌  💻
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Bin-Cao">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+FocusOn+XRDdiffraction;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
@@ -54,8 +54,7 @@
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Bin-Cao&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact" />
 </div>
 
 
