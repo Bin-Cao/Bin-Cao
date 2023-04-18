@@ -21,7 +21,7 @@
 ### Open source package: 
 
 
- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact" />
+ <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact">
 
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
