@@ -8,6 +8,11 @@
 
 ### In God we trust, all others bring data. -- William Edwards Deming
 
+<a href="https://github.com/Bin-Cao">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+
 ### Open source package: 
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
