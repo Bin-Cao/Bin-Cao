@@ -1,3 +1,10 @@
+<p align="center">
+<a href="https://github.com/Bin-Cao">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+</a>
+<br/>
+  
+
 # Hi there, I am Bin CAO | 曹斌  💻
 [![](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
 [![](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
