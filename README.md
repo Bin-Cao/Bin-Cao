@@ -18,11 +18,10 @@
 [![](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
 [![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
 
-### Open source package: 
-
-
+  
  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact">
-
+  
+### Open source package: 
 
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 [![](https://img.shields.io/badge/TCGPR-GitHub-green)](https://github.com/Bin-Cao/TCGPR)
