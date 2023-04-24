@@ -66,7 +66,7 @@
 </p>
 
 <h1 align="center">
-  <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="200"></a>
+  <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="230"></a>
 </h1>
 
 
