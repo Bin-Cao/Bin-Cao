@@ -59,9 +59,6 @@
   
 <h1 align="left">
   <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="100"></a>
-  <br>
-  微信公众号平台
-  <br>
 </h1>
 
 
