@@ -56,12 +56,6 @@
 
 + 📨 Email : binjacobcao@gmail.com
 
-  
-<h1 align="center">
-  <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="100"></a>
-</h1>
-
-
 
 
 <a href=#><img src="contributions.svg"></a>
@@ -70,3 +64,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
 </p>
+
+<h1 align="center">
+  <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="100"></a>
+</h1>
+
+
