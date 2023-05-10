@@ -10,7 +10,7 @@
  
 
 <a href="https://github.com/Bin-Cao">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao ">
 </a>
 
  
@@ -70,4 +70,4 @@
   <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="230"></a>
 </h1>
 
-https://github-stats-alpha.vercel.app/api?username={Bin-Cao} 
+
