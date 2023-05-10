@@ -10,7 +10,7 @@
  
 
 <a href="https://github.com/Bin-Cao">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao ">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=000&tc=fff&ic=fff&bc=000">
 </a>
 
  
