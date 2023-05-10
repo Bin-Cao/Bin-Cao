@@ -8,6 +8,87 @@
 </a>
 <br/>
  
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GitHub Issue 统计</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		.container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			margin: 50px auto;
+			max-width: 600px;
+		}
+		.stats {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			margin-top: 20px;
+			padding: 10px;
+			border-radius: 5px;
+			background-color: #fff;
+			box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+		}
+		.stat-item {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			margin-right: 20px;
+		}
+		.stat-item:last-child {
+			margin-right: 0;
+		}
+		.stat-item-value {
+			font-size: 24px;
+			font-weight: bold;
+			margin-bottom: 5px;
+			color: #22272e;
+		}
+		.stat-item-label {
+			font-size: 16px;
+			color: #888;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>GitHub Issue 统计</h1>
+		<div class="stats" id="stats-container">
+			<div class="stat-item">
+				<div class="stat-item-value" id="open-issues"></div>
+				<div class="stat-item-label">Open Issues</div>
+			</div>
+			<div class="stat-item">
+				<div class="stat-item-value" id="closed-issues"></div>
+				<div class="stat-item-label">Closed Issues</div>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		// Replace the following variables with your own values
+		const username = "Bin-Cao";
+		const repo = "your-repo-name";
+		const openIssuesElement = document.getElementById("open-issues");
+		const closedIssuesElement = document.getElementById("closed-issues");
+
+		fetch(`https://api.github.com/repos/${username}/${repo}/issues?state=all`)
+			.then(response => response.json())
+			.then(data => {
+				const openIssues = data.filter(issue => !issue.pull_request && issue.state === "open").length;
+				const closedIssues = data.filter(issue => !issue.pull_request && issue.state === "closed").length;
+				openIssuesElement.innerText = openIssues;
+				closedIssuesElement.innerText = closedIssues;
+			})
+			.catch(error => console.error(error));
+	</script>
+</body>
+</html>
+ 
+  
 <a href="https://github.com/Bin-Cao">
     <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
