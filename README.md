@@ -58,8 +58,10 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
+  <br>
+  Home Page Visits
+  <br>
 </p>
 
 
