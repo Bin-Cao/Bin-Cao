@@ -59,6 +59,7 @@
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
+ width="480"></a>
   <br>
   Home Page Visits
   <br>
