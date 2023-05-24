@@ -62,8 +62,12 @@
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
 </p>
 
+
 <h1 align="center">
-  <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="230"></a>
+  <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="180"></a>
+   <br>
+  微信公众号平台
+  <br>
 </h1>
 
 
