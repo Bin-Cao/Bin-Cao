@@ -73,7 +73,7 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
   <br>
-  Home Page Visits （访问量）
+  Home Page Visitors （访问量）
   <br>
 </p>
 
