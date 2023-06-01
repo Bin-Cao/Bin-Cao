@@ -4,13 +4,17 @@
 
 
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Bin-Cao">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+FocusOn+XRDdiffraction;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
  
+<a href="https://github.com/Bin-Cao">
+    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
+</p>
 
  
 [![](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
