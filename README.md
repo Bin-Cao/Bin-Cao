@@ -52,7 +52,7 @@
 ---
 
 ## Skills
-+ Machine Learning 
++ Machine Learning
 + X-ray Diffraction Refinement 
 + dft calculation
 
