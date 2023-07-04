@@ -54,7 +54,7 @@
 ## Skills
 + Machine Learning 
 + X-ray Diffraction Refinement 
-+ Metal Oxidation
++ dft calculation
 
 ## Experience
 + 👨‍🎓 2023.9-     : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
