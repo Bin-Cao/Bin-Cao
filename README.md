@@ -69,7 +69,7 @@
 ## Contact
 
 + 📨 Email : binjacobcao@gmail.com
-
+I am open to collaboration, feel free to contact me via Email
 
 
 <a href=#><img src="contributions.svg"></a>
