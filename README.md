@@ -64,7 +64,7 @@
 
 ## Languages
 + Mandarin Chinese (Native Speaker)
-+ English (C1-C2 level)
++ English (C2 level)
 
 ## Contact
 
