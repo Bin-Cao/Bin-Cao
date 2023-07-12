@@ -2,7 +2,9 @@
   
 # Hi there, I am Bin CAO | 曹斌  💻 
 
+to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible research practices
 
+促进知识的无限制传播和透明和可访问的研究实践
 
 <p align="left">
 <a href="https://github.com/Bin-Cao">
