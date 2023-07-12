@@ -6,6 +6,8 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 促进知识的无限制传播和透明、可访问的研究
 
+---
+
 <p align="left">
 <a href="https://github.com/Bin-Cao">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+FocusOn+XRDdiffraction;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
