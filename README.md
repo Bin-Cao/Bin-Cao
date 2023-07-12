@@ -54,7 +54,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 ---
 
 ## Skills
-+ Machine Learning
++ Machine Learning ; Transfer Learning
 + X-ray Diffraction Refinement 
 + Density Functional Theory
 
