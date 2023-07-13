@@ -61,7 +61,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 + Density Functional Theory
 
 ## Experience
-+ 👨‍🎓 2023.9-     : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
++ 👨‍🎓 At Present : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
 + 👨‍💻 2023.3-2023.9 : Zhejiang LAB / Intern / Hangzhou, China
 + 👨‍🎓 2020.9-2023.6 : Shanghai University / Mphil | Outstanding graduate / Shanghai, China
 + 👨‍🎓 2016.9-2020.6 : Beijing University of Chemical Technology / Bachelor / Beijing, China
