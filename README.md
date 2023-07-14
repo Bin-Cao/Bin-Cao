@@ -1,5 +1,4 @@
-![截屏2023-07-14 13 52 09](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/12fb50e9-c260-415a-a78c-e46711a177b2)
-  
+
 # Hi there, I am Bin CAO | 曹斌  💻 
 
 to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches
