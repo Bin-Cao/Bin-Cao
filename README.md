@@ -94,8 +94,4 @@ I am open to collaboration, feel free to contact me via Email
 
 📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟)**
 
-<h1 align="left">
-  <a href=""><img src="https://github.com/MaterialsInformaticsDemo/.github/assets/86995074/9589e0b8-c382-45ee-a56f-a4924b9469a1" alt="book" width="100"></a>
-  <br>
-  <br>
-</h1>
+
