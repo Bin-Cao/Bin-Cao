@@ -90,7 +90,7 @@ I am open to collaboration, feel free to contact me via Email
    <br>
   微信公众号平台
 
-WeChat public account platform
+WeChat platform
   <br>
 </h1>
 
