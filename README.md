@@ -94,6 +94,6 @@ WeChat platform
   <br>
 </h1>
 
-📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟)**
+📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟) （Send a message to the official account platform, note the name of the open source library, and you can join the discussion group (the reply may be slightly delayed))）**
 
 
