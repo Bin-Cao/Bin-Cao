@@ -89,6 +89,8 @@ I am open to collaboration, feel free to contact me via Email
   <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="140"></a>
    <br>
   微信公众号平台
+
+WeChat public account platform
   <br>
 </h1>
 
