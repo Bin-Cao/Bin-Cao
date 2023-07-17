@@ -3,7 +3,7 @@
 
 to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches
 
-促进知识的无限制传播和透明、可访问的研究
+促进知识的无壁垒传播和透明、可访问的研究
 
 ---
 
