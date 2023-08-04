@@ -1,4 +1,4 @@
-![20120410105531_EGFv4 thumb 1000_0](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/1c9f5702-acd7-42d1-8050-00caa62b5e5e)
+
 
 # Hi there, I am Bin CAO | 曹斌  💻 
 
