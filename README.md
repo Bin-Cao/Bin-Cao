@@ -71,7 +71,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 ## Contact
 
-+ 📨 Email : binjacobcao@gmail.com
++ 📨 Email : bcao686@connect.hkust-gz.edu.cn
 I am open to collaboration, feel free to contact me via Email
 
 
