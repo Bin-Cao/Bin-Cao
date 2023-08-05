@@ -57,7 +57,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 ## Skills
 + Machine Learning ; Transfer Learning
-+ X-ray Diffraction Refinement (XRD、XAF、XPS)
++ X-ray Diffraction Refinement (XRD、XAFS、XPS)
 + Density Functional Theory
 
 ## Experience
