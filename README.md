@@ -38,7 +38,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
       alt="ORCID iD icon"/>
     https://orcid.org/0000-0001-7273-6779
   </a>
- 
+
    
 ---
 **Open source package:**
@@ -87,7 +87,7 @@ I am open to collaboration, feel free to contact me via Email
 ---
 
 <h1 align="center">
-  <a href=""><img src="https://user-images.githubusercontent.com/86995074/233922132-9ba951ac-05d3-4708-be1b-a06f72ca2bd6.jpg" alt="Wechat" width="140"></a>
+  <a href=""><img src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/2eb6a574-c01f-4aff-aca2-16b3c1947d5e" alt="Wechat" width="140"></a>
    <br>
   微信公众号平台
 
