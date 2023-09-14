@@ -89,9 +89,6 @@ I am open to collaboration, feel free to contact me via Email
 
 <h1 align="center">
   <a href=""><img src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/3b28c2f1-6a20-4e72-9d8d-2d0c0daec4d3" alt="Wechat" width="140"></a>
-   <br>
-
-  <br>
 </h1>
 
 📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟) （Send a message to the official account platform, note the name of the open source library, and you can join the discussion group (the reply may be slightly delayed))**
