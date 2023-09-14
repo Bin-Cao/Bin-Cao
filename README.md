@@ -86,12 +86,11 @@ I am open to collaboration, feel free to contact me via Email
 
 ---
 
-<h1 align="center">
-  <a href=""><img src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/2eb6a574-c01f-4aff-aca2-16b3c1947d5e" alt="Wechat" width="140"></a>
-   <br>
-  微信公众号平台
 
-WeChat platform
+<h1 align="center">
+  <a href=""><img src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/3b28c2f1-6a20-4e72-9d8d-2d0c0daec4d3" alt="Wechat" width="140"></a>
+   <br>
+
   <br>
 </h1>
 
