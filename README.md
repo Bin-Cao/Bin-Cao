@@ -56,9 +56,8 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 ---
 
 ## Skills
-+ Machine Learning ; Transfer Learning
-+ X-ray Diffraction Refinement (XRD、XAFS)
-+ Density Functional Theory
++ ML-based X-ray Diffraction technology (XRD、XAFS) & Density Functional Theory
++ Machine Learning ; Transfer/Graphs in Crystallography
 
 ## Experience
 + 👨‍🎓 Present : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
