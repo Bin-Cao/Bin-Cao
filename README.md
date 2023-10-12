@@ -51,7 +51,9 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
   
-  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Bin-Cao/Bgolearn,Bin-Cao/TCLRmodel,Bin-Cao/TrAdaboost,Bin-Cao/TCGPR&type=Date)](https://star-history.com/#Bin-Cao/Bgolearn&Bin-Cao/TCLRmodel&Bin-Cao/TrAdaboost&Bin-Cao/TCGPR&Date)
  
 ---
 
