@@ -58,7 +58,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 ---
 
 ## Skills
-+ ML-based X-ray Diffraction technology (XRD、XAFS) & Density Functional Theory
++ ML-based X-ray technology (XRD、XAFS、XPS) & Density Functional Theory
 + Machine Learning ; Transfer/Graphs in Crystallography
 
 ## Experience
