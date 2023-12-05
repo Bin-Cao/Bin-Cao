@@ -58,6 +58,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 + ML-based X-ray technology (XRD、XAFS、XPS) & Density Functional Theory
 + Machine Learning ; Transfer/Graphs in Crystallography
 
+*Member of Chinese Crystallographic Society*
 ## Experience
 + 👨‍🎓 Present : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
 + 👨‍💻 2023.3-2023.8 : Zhejiang LAB / Intern / Hangzhou, China
