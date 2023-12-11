@@ -86,9 +86,9 @@ I am open to collaboration, feel free to contact me via Email
 ---
 
 
-Wechat platform NAME : SciMindBin
 
-📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟) （Send a message to the Wechat platform, note the name of the open source library, and you can join the discussion group (the reply may be slightly delayed))**
+
+📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟) （Send a message to the Wechat platform, note the name of the open source library, and you can join the discussion group (the reply may be slightly delayed) | Wechat platform NAME : SciMindBin )**
 
 
 ![WechatIMG954](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/22c3d038-4b71-480d-9e73-b498bc39a8e8)
