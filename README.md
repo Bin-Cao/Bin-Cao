@@ -10,7 +10,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 <p align="left">
 <a href="https://github.com/Bin-Cao">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+FocusOn+XRDdiffraction;AI+%7C+Materials+Informatics+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bin+CAO+(曹斌);Researcher+%7C+PhD+Student+%7C+FocusOn+XRDdiffraction;Crystallography+%7C+XRD+%7C+XPS+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
  
