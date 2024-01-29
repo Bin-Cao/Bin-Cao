@@ -77,6 +77,13 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 I am open to collaboration, feel free to contact me via Email
 
 
+![WechatIMG954](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/22c3d038-4b71-480d-9e73-b498bc39a8e8)
+
+[WPEM](https://github.com/Bin-Cao/WPEM) specializes in elucidating intricate crystal structures and untangling heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction. Our endeavors have yielded noteworthy research outcomes, including the precise detection of subtle structural differences, such as the α phase and α' phase of Ti-Ni alloy, the differentiation of amorphous and crystalline contributions in Polybutene, the investigation of complex solid solution structures, and the computation of scattering information within organized processes. We are eager to engage in extensive collaborations and offer support in X-ray diffraction pattern refinement. For inquiries or assistance, please don't hesitate to contact us at bcao686@connect.hkust-gz.edu.cn (Dr. CAO Bin).
+
+Our development journey commenced in 2020, driven by a commitment to patience and perfection in our work. Upon the publication of our final paper, we plan to freely share all our code promptly.
+
+
 <a href=#><img src="contributions.svg"></a>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
@@ -92,10 +99,4 @@ I am open to collaboration, feel free to contact me via Email
 
 📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟)  | 公众号 : SciMindBin （Send a message to the Wechat platform, note the name of the open source library, and you can join the discussion group (the reply may be slightly delayed) | Wechat platform NAME : SciMindBin )**
 
-
-![WechatIMG954](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/22c3d038-4b71-480d-9e73-b498bc39a8e8)
-
-[WPEM](https://github.com/Bin-Cao/WPEM) specializes in elucidating intricate crystal structures and untangling heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction. Our endeavors have yielded noteworthy research outcomes, including the precise detection of subtle structural differences, such as the α phase and α' phase of Ti-Ni alloy, the differentiation of amorphous and crystalline contributions in Polybutene, the investigation of complex solid solution structures, and the computation of scattering information within organized processes. We are eager to engage in extensive collaborations and offer support in X-ray diffraction pattern refinement. For inquiries or assistance, please don't hesitate to contact us at bcao686@connect.hkust-gz.edu.cn (Dr. CAO Bin).
-
-Our development journey commenced in 2020, driven by a commitment to patience and perfection in our work. Upon the publication of our final paper, we plan to freely share all our code promptly.
 
