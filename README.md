@@ -63,7 +63,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 ## Experience
 + 👨‍🎓 2023.9-Present : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
 + 👨‍💻 2023.3-2023.8 : Zhejiang LAB / Intern / Hangzhou, China
-+ 👨‍🎓 2020.9-2023.6 : Shanghai University / Mphil (Outstdng Grad. ; National scholarship) / Shanghai, China
++ 👨‍🎓 2020.9-2023.6 : Shanghai University / Mphil (Outstanding Grad. ; National scholarship) / Shanghai, China
 + 👨‍🎓 2016.9-2020.6 : Beijing University of Chemical Technology / Bachelor / Beijing, China
 
 ## Languages
