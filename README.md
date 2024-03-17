@@ -24,21 +24,6 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 [![](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 [![](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
 [![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
-
-<a
-  id="cy-effective-orcid-url"
-  class="underline"
-   href="https://orcid.org/0000-0001-7273-6779"
-   target="orcid.widget"
-   rel="me noopener noreferrer"
-   style="vertical-align: top">
-   <img
-      src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-      style="width: 1em; margin-inline-start: 0.5em"
-      alt="ORCID iD icon"/>
-    https://orcid.org/0000-0001-7273-6779
-  </a>
-
    
 ---
 **Open source package:**
