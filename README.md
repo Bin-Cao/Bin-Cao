@@ -1,10 +1,8 @@
 
 
-# Hi there, I am Bin CAO | 曹斌  💻 
+# Hi there, I am Bin CAO （曹斌）  💻 
 
-to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches
-
-促进知识的无壁垒传播和透明、可访问的研究
+to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches （促进知识的无壁垒传播和透明、可访问的研究）
 
 ---
 
@@ -35,52 +33,6 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 [![](https://img.shields.io/badge/WPEM-GitHub-green)](https://github.com/Bin-Cao/WPEM)
 
 🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
-  
 
----
-
-## Skills
-+ ML-based X-ray technology (XRD、XAFS、XPS) & Density Functional Theory
-+ Machine Learning ; Transfer/Graphs in Crystallography
-
-*Member of Chinese Crystallographic Society*(CCrS) 
-
-## Experience
-+ 👨‍🎓 2023.9-Present : Hong Kong University of Science and Technology(GZ）/ PHD student / Guangzhou, China
-+ 👨‍💻 2023.3-2023.8 : Zhejiang LAB / Intern / Hangzhou, China
-+ 👨‍🎓 2020.9-2023.6 : Shanghai University / Mphil (Outstanding Grad. ; National scholarship) / Shanghai, China
-+ 👨‍🎓 2016.9-2020.6 : Beijing University of Chemical Technology / Bachelor / Beijing, China
-
-## Languages
-+ Mandarin Chinese (Native Speaker)
-+ English (C2 level)
-
-## Contact
-
-+ 📨 Email : bcao686@connect.hkust-gz.edu.cn
-I am open to collaboration, feel free to contact me via Email
-
-
-![WechatIMG954](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/22c3d038-4b71-480d-9e73-b498bc39a8e8)
-
-[WPEM](https://github.com/Bin-Cao/WPEM) specializes in elucidating intricate crystal structures and untangling heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction. Our endeavors have yielded noteworthy research outcomes, including the precise detection of subtle structural differences, such as the α phase and α' phase of Ti-Ni alloy, the differentiation of amorphous and crystalline contributions in Polybutene, the investigation of complex solid solution structures, and the computation of scattering information within organized processes. We are eager to engage in extensive collaborations and offer support in X-ray diffraction pattern refinement. For inquiries or assistance, please don't hesitate to contact us at bcao686@connect.hkust-gz.edu.cn (Dr. CAO Bin).
-
-Our development journey commenced in 2020, driven by a commitment to patience and perfection in our work. Upon the publication of our final paper, we plan to freely share all [our code](https://figshare.com/articles/software/Whole_Pattern_fitting_of_powder_X-ray_diffraction_by_Expectation_Maximum_algorithm/25060175) promptly.
-
-
-<a href=#><img src="contributions.svg"></a>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Bin-Cao/count.svg" />
-  <br>
-  Home Page Visitors （访问量）
-  <br>
-</p>
-
----
-
-
-
-
-📨 **私信公众号平台，备注开源库名称，可加入微信讨论群（回复可能会稍有延迟)  | 公众号 : SciMindBin （Send a message to the Wechat platform, note the name of the open source library, and you can join the discussion group (the reply may be slightly delayed) | Wechat platform NAME : [SciMindBin](https://mp.weixin.qq.com/s/C-8MdRp-JentcxWqgQ8j6A)**
-
+## [Resume](https://bin-cao.github.io/caobin/)https://bin-cao.github.io/caobin/
 
