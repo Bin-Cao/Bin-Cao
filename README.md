@@ -33,5 +33,5 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
 
-## [Resume](https://bin-cao.github.io/caobin/)https://bin-cao.github.io/caobin/)
+## [Resume](https://bin-cao.github.io/caobin/)
 
