@@ -24,8 +24,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 [![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
    
 ---
-**Open source package:**
-
+**Open source packages:**
 [![](https://img.shields.io/badge/TCLR-GitHub-green)](https://github.com/Bin-Cao/TCLRmodel)
 [![](https://img.shields.io/badge/TCGPR-GitHub-green)](https://github.com/Bin-Cao/TCGPR)
 [![](https://img.shields.io/badge/Bgolearn-GitHub-green)](https://github.com/Bin-Cao/Bgolearn)
@@ -34,5 +33,5 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
 
-## [Resume](https://bin-cao.github.io/caobin/)https://bin-cao.github.io/caobin/
+## [Resume](https://bin-cao.github.io/caobin/)https://bin-cao.github.io/caobin/)
 
