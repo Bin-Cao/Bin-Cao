@@ -1,6 +1,6 @@
 
 
-# Hi there, I am Bin CAO （曹斌）  💻 
+# Hi there, I am [BinCAO 曹斌](https://bin-cao.github.io/caobin/)  💻 
 
 to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches （促进知识的无壁垒传播和透明、可访问的研究）
 
@@ -33,5 +33,4 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 🤝🤝🤝 **Please star** ⭐️ **them for promoting open source projects** 🌍 **! Thanks !**
 
-## [Resume](https://bin-cao.github.io/caobin/)
 
