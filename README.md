@@ -2,7 +2,10 @@
 
 # Hi there, I am [BinCAO 曹斌](http://8.138.132.181/)  💻 
 
-[huggingface](https://huggingface.co/caobin)
+<img src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/1bc837aa-9154-47bf-9481-25bd79314377" alt="Logo" width="200" height="200">[**hugging face**](https://huggingface.co/caobin)
+
+
+
 
 to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches （促进知识的无壁垒传播和透明、可访问的研究）
  
