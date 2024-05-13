@@ -2,6 +2,8 @@
 
 # Hi there, I am [BinCAO 曹斌](http://8.138.132.181/)  💻 
 
+[huggingface](https://huggingface.co/caobin)
+
 to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches （促进知识的无壁垒传播和透明、可访问的研究）
  
 [![](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
