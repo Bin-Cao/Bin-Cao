@@ -2,8 +2,8 @@
 
 # Hi there, I am [BinCAO 曹斌](http://8.138.132.181/)  💻 
 
-<img src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/1bc837aa-9154-47bf-9481-25bd79314377" alt="Logo" width="200" height="200">[**hugging face**](https://huggingface.co/caobin)
-
+<img src="https://github.com/Bin-Cao/Bin-Cao/blob/master/assets/86995074/1bc837aa-9154-47bf-9481-25bd79314377.png?raw=true" alt="Logo" width="200" height="200">
+<a href="https://huggingface.co/caobin">hugging face</a>
 
 
 
