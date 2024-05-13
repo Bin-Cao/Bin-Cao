@@ -4,8 +4,7 @@
 
 
 
-<img src="./logo.jpeg" alt="Logo" width="50" height="50">
-[**hugging face**](https://huggingface.co/caobin)
+<img src="./logo.jpeg" alt="Logo" width="50" height="50">[**hugging face**](https://huggingface.co/caobin)
 
 
 
