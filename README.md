@@ -4,8 +4,8 @@
 
 
 
-<img src="https://github.com/Bin-Cao/Bin-Cao/raw/master/assets/86995074/5596b82f-8981-4373-a1ad-e7e258314b26.png" alt="Logo" width="50" height="50">
-[hugging face](https://huggingface.co/caobin)
+<img src="./logo.jpeg" alt="Logo" width="50" height="50">
+[**hugging face**](https://huggingface.co/caobin)
 
 
 
