@@ -1,8 +1,6 @@
 
 
-# Hi there, I am [BinCAO 曹斌](http://8.138.132.181/)  💻 
-
-
+# [BinCAO 曹斌](http://8.138.132.181/)  💻    
 
 <img src="./logo.jpeg" alt="Logo" width="50" height="50">[**hugging face**](https://huggingface.co/caobin)
 
