@@ -2,8 +2,11 @@
 
 # Hi there, I am [BinCAO 曹斌](http://8.138.132.181/)  💻 
 
-![Logo](https://github.com/Bin-Cao/Bin-Cao/raw/master/assets/86995074/1bc837aa-9154-47bf-9481-25bd79314377.png)
+![logp](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/5596b82f-8981-4373-a1ad-e7e258314b26)
 [hugging face](https://huggingface.co/caobin)
+
+
+
 
 
 
