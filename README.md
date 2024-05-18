@@ -2,7 +2,7 @@
 
 # [Bin CAO, 曹斌](http://8.138.132.181/)  💻    
 
-<img src="./logo.jpeg" alt="Logo" width="30" height="30">[**hugging face**](https://huggingface.co/caobin)
+<img src="./logo.jpeg" alt="Logo" width="30" height="30">
 
 
 
