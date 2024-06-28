@@ -24,5 +24,6 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 </p>
 
-<img width="261" alt="Screenshot 2024-06-28 at 19 07 12" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/5b515cd1-70bc-4ade-ad48-04e432d63514">
+![14251719572971_ pic](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d)
+
 [**SciMindBin**](https://mp.weixin.qq.com/s/Tko2c6k2KMDjjp6tZY4CkQ)
