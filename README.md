@@ -24,6 +24,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 </p>
 
-![14251719572971_ pic](https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d)
+<img src=https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d alt="Logo" width="200" height="80">
+
 
 [**SciMindBin**](https://mp.weixin.qq.com/s/Tko2c6k2KMDjjp6tZY4CkQ)
