@@ -21,4 +21,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 <a href="https://github.com/Bin-Cao">
     <img src="https://github-stats-alpha.vercel.app/api?username=Bin-Cao&cc=22272e&tc=47BCF6&ic=fff&bc=1000">
 </a>
+<img width="261" alt="Screenshot 2024-06-28 at 19 07 12" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/5b515cd1-70bc-4ade-ad48-04e432d63514">
+[**SciMindBin**](https://mp.weixin.qq.com/s/Tko2c6k2KMDjjp6tZY4CkQ)
 </p>
+
