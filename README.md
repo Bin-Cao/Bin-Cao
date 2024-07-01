@@ -24,7 +24,7 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 </p>
 <a href="https://mp.weixin.qq.com/s/Tko2c6k2KMDjjp6tZY4CkQ" target="_blank">
-    <img width="250" height="80" alt="Screenshotll" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d">
+    <img width="230" height="80" alt="Screenshotll" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d">
 </a>
 <a href="https://github.com/WPEM" target="_blank">
     <img width="280" height="80" alt="Screenshot 2024-07-01 at 11 03 11" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/26cb31c8-7072-4eee-be32-934a870d1bb9">
