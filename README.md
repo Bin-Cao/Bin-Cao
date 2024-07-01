@@ -24,6 +24,5 @@ to promote the unrestricted dissemination of knowledge and encourage transparent
 
 </p>
 
-<img src=https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d alt="Logo" width="300" height="100">[**SciMindBin**](https://mp.weixin.qq.com/s/Tko2c6k2KMDjjp6tZY4CkQ)
-
-<img width="300" height="100" alt="Screenshot 2024-07-01 at 11 03 11" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/26cb31c8-7072-4eee-be32-934a870d1bb9">[**WPEM**](https://github.com/WPEM)
+<img src=https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d alt="Logo" width="250" height="100">[**SciMindBin**](https://mp.weixin.qq.com/s/Tko2c6k2KMDjjp6tZY4CkQ)
+<img width="250" height="100" alt="Screenshot 2024-07-01 at 11 03 11" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/26cb31c8-7072-4eee-be32-934a870d1bb9">[**WPEM**](https://github.com/WPEM)
