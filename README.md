@@ -3,13 +3,21 @@
 ### Supervisor: Professor [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67)
 
 
-to promote the unrestricted dissemination of knowledge and encourage transparent, and accessible researches （促进知识的无壁垒传播和透明、可访问的研究）
+Passionate about the unrestricted dissemination of knowledge, as well as research that is transparent and accessible. 
  
 [![](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
 [![](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 [![](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
 [![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
-   
+
+Engaging in AI4CM (Artificial Intelligence for Computational Materials) research, focusing on crystal structure analysis and characterization. My research interests include:
+
++ Developing physics-informed machine learning algorithms
++ Spectroscopy methods and refinement of X-ray diffraction pattern
++ Coupled scattering between X-ray and crystals
++ Crystal electronic structure 
+
+
 ---
 
 <p align="left">
