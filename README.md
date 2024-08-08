@@ -27,3 +27,7 @@ Engaging in AI4CM (Artificial Intelligence for Computational Materials) research
 <a href="https://github.com/WPEM" target="_blank">
     <img width="280" height="80" alt="Screenshot 2024-07-01 at 11 03 11" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/26cb31c8-7072-4eee-be32-934a870d1bb9">
 </a>
+<a href="https://github.com/Bgolearn" target="_blank">
+    <img width="280" height="80" alt="Screenshot 2024-07-02 at 11 03 11" src="https://github.com/user-attachments/assets/4e551dff-525b-4784-9789-e0abc4708fdc">
+</a>
+
