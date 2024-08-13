@@ -17,9 +17,7 @@ Engaging in AI4CM (Artificial Intelligence for Computational Materials) research
 [![](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 [![](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
 [![](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
----
 
-人生苦短, 我用Python
 ---
 <a href="https://mp.weixin.qq.com/s/4etGcIri-AXUT5GAKL0cJg" target="_blank">
     <img width="210" height="70" alt="Screenshotll" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d">
