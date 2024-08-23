@@ -1,6 +1,5 @@
 ## [Barnie Cao 曹斌](http://www.caobin.asia/)   <img src="./logo.jpeg" alt="Logo" width="30" height="30">
 
-### Supervisor: Professor [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67)
 
 
 Passionate about the unrestricted dissemination of knowledge, as well as research that is transparent and accessible. 
