@@ -1,6 +1,3 @@
-Here's a refined and visually enhanced version of your GitHub introduction:
-
----
 
 ## [Barnie Cao 曹斌](http://www.caobin.asia/)  <img src="./logo.jpeg" alt="Logo" width="30" height="30">
 
