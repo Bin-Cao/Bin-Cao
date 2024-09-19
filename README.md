@@ -6,6 +6,9 @@ I am **Cao Bin**, a graduate of [Beijing University of Chemical Technology](http
 Visit me at:
 - [Introduction](https://bin-cao.github.io/caobin/)
 - [Homepage](http://www.caobin.asia/)
+<a href='https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1'>
+  <img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
 
 ### Research Interests:
 + Developing **physics-informed machine learning algorithms**
