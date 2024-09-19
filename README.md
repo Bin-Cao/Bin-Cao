@@ -3,12 +3,12 @@
 
 I am **Cao Bin**, a graduate of [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), and currently pursuing research at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/) under the supervision of Professor [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67). My research is centered on AI-driven computational materials science, particularly focusing on crystal structure analysis, generation, and Bayesian optimization. As an advocate of open science, I am dedicated to promoting transparency and accessibility in research.
 
-Visit me at:
+Visit me at <a href='https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1'>
+  <img src="https://img.shields.io/badge/Google%20Scholar--blue?logo=Google%20Scholar&style=flat&labelColor=f6f6f6">
+</a>:
 - [Introduction](https://bin-cao.github.io/caobin/)
 - [Homepage](http://www.caobin.asia/)
-<a href='https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1'>
-  <img src="https://img.shields.io/badge/Google%20Scholar--blue?logo=Google%20Scholar&style=flat&labelColor=f6f6f6">
-</a>
+
 
 
 ### Research Interests:
