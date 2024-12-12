@@ -38,3 +38,25 @@ Visit me at <a href='https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=z
 </a>
 
 ---
+
+# Tool List
+
+| **Category**                          | **Tool Name**                           | **Description**                                                                                     | **Link**                                                                 |
+|---------------------------------------|-----------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Spectrography**                     | **CrystalXRD**                          | Crystal database                                                                                   | [CrystalXRD](https://github.com/Bin-Cao/CrystalXRD)                      |
+|                                       | **SimXRD**                              | High-fidelity XRD database                                                                         | [SimXRD](https://github.com/Bin-Cao/SimXRD)                              |
+|                                       | **CPICANN**                             | Structure identification from XRD                                                                  | [CPICANN](https://github.com/WPEM/CPICANN)                               |
+|                                       | **Xqueryer**                            | Structure analysis system for XRD                                                                  | [Xqueryer](https://xqueryer.caobin.asia/)                                |
+|                                       | **WPEM**                                | XRD structure refinement                                                                           | [WPEM](https://github.com/Bin-Cao/WPEM)                                  |
+|                                       | **PyArpes**                             | Angle-resolved photoemission spectroscopy post-processing                                          | [PyArpes](https://github.com/Bin-Cao/PyArpes)                            |
+| **Crystallography**                   | **CGWGAN**                              | Crystal generation                                                                                 | [CGWGAN](https://github.com/WPEM/CGWGAN)                                 |
+|                                       | **ASUGNN**                              | Crystal property prediction                                                                        | [ASUGNN](https://github.com/Bgolearn/BgoFace)                            |
+|                                       | **exQE**                                | Crystal property prediction                                                                        | [exQE](https://github.com/Bin-Cao/exQE)                                  |
+| **Materials Optimization and Design** | **Bgolearn**                            | Bayesian global optimization                                                                       | [Bgolearn](https://github.com/Bin-Cao/Bgolearn)                          |
+|                                       | **MultiBgolearn**                       | Multi-Objective Bayesian Global Optimization                                                      | [MultiBgolearn](https://github.com/Bin-Cao/MultiBgolearn)                |
+|                                       | **BgoFace**                             | User interface of the Bgolearn platform                                                           | [BgoFace](https://github.com/Bgolearn/BgoFace)                           |
+|                                       | **MLMD**                                | Ensemble platform for machine learning                                                            | [MLMD](https://github.com/Jiaxuan-Ma/MLMD)                               |
+|                                       | **TrAdaboost**                          | Transfer learning toolkit                                                                         | [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost)                      |
+|                                       | **TCLR**                                | Tool to distinguish mechanisms in data                                                            | [TCLR](https://github.com/Bin-Cao/TCLRmodel)                             |
+|                                       | **TCGPR**                               | Machine learning algorithms for outlier identification and feature selection                       | [TCGPR](https://github.com/Bin-Cao/TCGPR)                                |
+
