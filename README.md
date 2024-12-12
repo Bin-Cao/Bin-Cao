@@ -61,6 +61,6 @@ Visit me at <a href='https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=z
 |                                       | **TrAdaboost**                          | Transfer learning toolkit                                                                         | [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost)                      |
 |                                       | **TCLR**                                | Tool to distinguish mechanisms in data                                                            | [TCLR](https://github.com/Bin-Cao/TCLRmodel)                             |
 |                                       | **TCGPR**                               | Machine learning algorithms for outlier identification and feature selection                       | [TCGPR](https://github.com/Bin-Cao/TCGPR)                                |
-|                                       | **ShapEV**                               | Searching equivalent values based on joined SHAP values                   | [TCGPR](https://github.com/Bin-Cao/ShapEV)                                |
+|                                       | **ShapEV**                               | Searching equivalent values based on joined SHAP values                   | [ShapEV](https://github.com/Bin-Cao/ShapEV)                                |
 
 
