@@ -1,33 +1,34 @@
 
+
 ## [Barnie Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30">
 
-I’m **Cao Bin**, a researcher passionate about AI-driven materials science. I graduated from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm) and am currently conducting research at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), under the supervision of [Prof. ZHANG Tongyi](https://gbaaa.org.hk/en-us/article/67).
+I am **Cao Bin (Barnie Cao)**, a researcher working at the interface of **computational materials science** and **artificial intelligence**. I obtained my B.E. from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), and I am currently affiliated with the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I conduct research under the supervision of [Prof. ZHANG Tongyi](https://gbaaa.org.hk/en-us/article/67).
 
-My work lies at the intersection of **materials informatics** and **computational physics**, with a focus on:
+My current research aims to integrate **machine learning methodologies** with **materials physics**, with a particular emphasis on:
 
-* Crystal structure analysis & simulation
-* AI-assisted phase recognition in XRD
-* Bayesian optimization in scientific discovery
-* Generative models for novel materials
+* **Crystallographic structure analysis** and simulation via diffraction-based methods
+* **AI-assisted phase identification** from experimental X-ray diffraction (XRD) patterns
+* **Bayesian optimization frameworks** for efficient material design and discovery
+* **Generative models** for hypothetical crystal structures with target properties
 
-As a strong advocate for **open science**, I strive to make research more **transparent, reproducible**, and **accessible to the community**.
+I am a strong proponent of **open science**, advocating for transparency, reproducibility, and community collaboration in computational research.
 
 ---
 
 📌 **Quick Links**
 
-* 🔬 [Introduction Page](https://bin-cao.github.io/caobin/)
+* 🔬 [Academic Introduction](https://bin-cao.github.io/caobin/)
 * 🏠 [Personal Website](http://www.caobin.asia/)
-* 📖 [Google Scholar](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1)
+* 📖 [Google Scholar Profile](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1)
 
 ---
 
 ### 🧠 Research Interests
 
-* ⚛️ **Physics-informed Machine Learning** for materials discovery
-* 📊 **Spectroscopy & XRD** data processing and analysis
-* 🔭 **Coupled Scattering** in crystal-X-ray interactions
-* 🧮 **Crystal Electronic Structure** modeling and prediction
+* ⚛️ **Physics-informed machine learning**: Integrating domain knowledge into AI models for improved generalization in materials research
+* 📡 **Diffraction and spectroscopy analysis**: X-ray scattering, spectral interpretation, and pattern refinement algorithms
+* 🔄 **Coupled scattering phenomena**: Investigating multi-scale X-ray–matter interactions in complex crystals
+* 🧬 **Electronic structure modeling**: Predicting and analyzing the electronic properties of crystalline materials via DFT-augmented learning
 
 ---
 
@@ -40,17 +41,8 @@ As a strong advocate for **open science**, I strive to make research more **tran
 
 ---
 
-### 🧰 Highlighted Projects
+### 📣 WeChat Channel
 
 <a href="https://mp.weixin.qq.com/s/4etGcIri-AXUT5GAKL0cJg" target="_blank">
   <img width="210" height="70" alt="WeChat Public Account" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d">
 </a>
-
-<a href="https://github.com/WPEM" target="_blank">
-  <img width="280" height="80" alt="WPEM Project" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/26cb31c8-7072-4eee-be32-934a870d1bb9">
-</a>
-
-<a href="https://github.com/Bgolearn" target="_blank">
-  <img width="280" height="80" alt="Bgolearn Project" src="https://github.com/user-attachments/assets/4e551dff-525b-4784-9789-e0abc4708fdc">
-</a>
-
