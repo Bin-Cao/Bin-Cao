@@ -23,23 +23,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 ---
 
-### 🧠 Research Interests
 
-* ⚛️ **Physics-informed machine learning**: Integrating domain knowledge into AI models for improved generalization in materials research
-* 📡 **Diffraction and spectroscopy analysis**: X-ray scattering, spectral interpretation, and pattern refinement algorithms
-* 🔄 **Coupled scattering phenomena**: Investigating multi-scale X-ray–matter interactions in complex crystals
-* 🧬 **Electronic structure modeling**: Predicting and analyzing the electronic properties of crystalline materials via DFT-augmented learning
-
----
-
-### 🌐 Connect with Me
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Bin%20Cao-yellowgreen)](https://www.researchgate.net/profile/Bin-Cao-37)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Bin%20CAO-orange)](https://scholar.google.com.hk/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
-[![GitHub Repositories](https://img.shields.io/badge/Repositories-GitHub-blue)](https://github.com/Bin-Cao?tab=repositories)
-[![Open Source Projects](https://img.shields.io/badge/Open--source%20Projects-PyPI-orange)](https://pypi.org/user/CaoBin/)
-
----
 
 ### 📣 WeChat Channel
 
