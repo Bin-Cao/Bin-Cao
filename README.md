@@ -2,7 +2,7 @@
 
 ## [Barnie Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30">
 
-I am **Cao Bin (Barnie Cao)**, a researcher working at the interface of **computational materials science** and **artificial intelligence**. I obtained my B.E. from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), and I am currently affiliated with the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I conduct research under the supervision of [Prof. ZHANG Tongyi](https://gbaaa.org.hk/en-us/article/67).
+I am **Cao Bin**, working at the interface of **computational materials science** and **artificial intelligence**. I obtained my B.E. from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), and I am currently affiliated with the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I conduct research under the supervision of [Prof. ZHANG Tongyi](https://gbaaa.org.hk/en-us/article/67).
 
 My current research aims to integrate **machine learning methodologies** with **materials physics**, with a particular emphasis on:
 
