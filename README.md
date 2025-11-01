@@ -15,7 +15,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Bin-Cao&show_icons=true&theme=default" width="370" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bin-Cao" width="387" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bin-Cao" width="390" />
 </p>
 
 ---
