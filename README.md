@@ -33,60 +33,11 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Bin Cao GitHub Impact</title>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
-  <h1>GitHub Metrics for Bin Cao</h1>
-  <canvas id="starsChart" width="800" height="400"></canvas>
+### 📊 GitHub Overview
 
-  <script>
-    const username = 'Bin-Cao'; // GitHub username
-    const apiUrl = `https://api.github.com/users/${username}/repos?per_page=100`;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Cao&show_icons=true&theme=default)
 
-    fetch(apiUrl)
-      .then(resp => resp.json())
-      .then(data => {
-        const repos = data;
-        const labels = repos.map(r => r.name);
-        const starCounts = repos.map(r => r.stargazers_count);
-        const forkCounts = repos.map(r => r.forks_count);
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact)
 
-        const ctx = document.getElementById('starsChart').getContext('2d');
-        new Chart(ctx, {
-          type: 'bar',
-          data: {
-            labels: labels,
-            datasets: [
-              {
-                label: 'Stars',
-                data: starCounts,
-                backgroundColor: 'rgba(54, 162, 235, 0.5)'
-              },
-              {
-                label: 'Forks',
-                data: forkCounts,
-                backgroundColor: 'rgba(255, 99, 132, 0.5)'
-              }
-            ]
-          },
-          options: {
-            responsive: true,
-            plugins: {
-              legend: { position: 'top' },
-              title: { display: true, text: 'Stars & Forks for each repo' }
-            },
-            scales: {
-              x: { ticks: { autoSkip: true, maxTicksLimit: 20 } },
-              y: { beginAtZero: true }
-            }
-          }
-        });
-      })
-      .catch(err => console.error(err));
-  </script>
-</body>
-</html>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bin-Cao)
+
