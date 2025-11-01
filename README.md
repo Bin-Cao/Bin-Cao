@@ -13,6 +13,10 @@ My current research aims to integrate **machine learning methodologies** with **
 
 I am a strong proponent of **open science**, advocating for transparency, reproducibility, and community collaboration in computational research.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Cao&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bin-Cao)
+
+
 ---
 
 📌 **Quick Links**
@@ -30,14 +34,4 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 <a href="https://mp.weixin.qq.com/s/4etGcIri-AXUT5GAKL0cJg" target="_blank">
   <img width="210" height="70" alt="WeChat Public Account" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d">
 </a>
-
----
-
-### 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Cao&show_icons=true&theme=default)
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bin-Cao)
 
