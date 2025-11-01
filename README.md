@@ -37,7 +37,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bin-Cao&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Cao&layout=compact)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bin-Cao)
 
