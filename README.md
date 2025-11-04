@@ -28,9 +28,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 
 
+
 ### 📣 WeChat Channel
 
-<a href="https://mp.weixin.qq.com/s/4etGcIri-AXUT5GAKL0cJg" target="_blank">
-  <img width="210" height="70" alt="WeChat Public Account" src="https://github.com/Bin-Cao/Bin-Cao/assets/86995074/461ad549-551f-45ad-8fe4-0ec717917a1d">
-</a>
-
+<img width="545" height="366" alt="Screenshot 2025-11-04 at 18 41 21" src="https://github.com/user-attachments/assets/87963042-b060-4339-acab-d2548d8f14de" />
