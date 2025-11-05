@@ -31,4 +31,4 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 ### 📣 WeChat Channel
 
-<img width="545" height="366" alt="Screenshot 2025-11-04 at 18 41 21" src="https://github.com/user-attachments/assets/87963042-b060-4339-acab-d2548d8f14de" />
+<img width="545" height="306" alt="Screenshot 2025-11-04 at 18 41 21" src="https://github.com/user-attachments/assets/87963042-b060-4339-acab-d2548d8f14de" />
