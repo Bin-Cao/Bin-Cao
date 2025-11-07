@@ -13,10 +13,6 @@ My current research aims to integrate **machine learning methodologies** with **
 
 I am a strong proponent of **open science**, advocating for transparency, reproducibility, and community collaboration in computational research.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bin-Cao&show_icons=true&theme=default" width="370" />
-
-</p>
 
 ---
 
