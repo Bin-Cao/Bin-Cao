@@ -8,7 +8,7 @@
       📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
       📧 Email: <a href="mailto:bincao4-c@my.cityu.edu.hk">bincao4-c@my.cityu.edu.hk</a><br><br>
 
-      <b style="font-size:20px;">Infinite possibilities start with your next line of code.</b><br><br>
+      <b Infinite possibilities start with your next line of code.</b><br><br>
     </td>
   </tr>
 </table>
