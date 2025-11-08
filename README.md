@@ -1,4 +1,21 @@
 
+<table>
+  <tr>
+    <td width="160" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/7e77bd5a-42d6-45db-b8e6-2c82cac81b9d" width="140" style="border-radius: 50%;"/>
+    </td>
+    <td valign="top">
+      <b>Feel free to contact Mr. CAO Bin at:</b><br><br>
+      📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
+      📧 Email: <a href="mailto:bincao4-c@my.cityu.edu.hk">bincao4-c@my.cityu.edu.hk</a><br><br>
+      <span style="color:#003366; font-weight:bold; font-size:24px;">
+        Infinite possibilities start with your next line of code.
+      </span>
+    </td>
+  </tr>
+</table>
+
+
 
 ## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30">
 
