@@ -7,9 +7,10 @@
       <b>Feel free to contact Mr. CAO Bin at:</b><br><br>
       📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
       📧 Email: <a href="mailto:bincao4-c@my.cityu.edu.hk">bincao4-c@my.cityu.edu.hk</a><br><br>
-      <span style="color:#003366; font-weight:bold; font-size:24px;">
-        Infinite possibilities start with your next line of code.
-      </span>
+
+      <b>Infinite possibilities start with your next line of code.</b><br><br>
+        
+      
     </td>
   </tr>
 </table>
