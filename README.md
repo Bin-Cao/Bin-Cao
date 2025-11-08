@@ -9,7 +9,7 @@
       📧 Email: <a href="mailto:bincao4-c@my.cityu.edu.hk">bincao4-c@my.cityu.edu.hk</a><br><br>
       <b>Infinite possibilities start with your next line of code.</b><br><br>
 
-    </td>
+ 
   </tr>
 </table>
 
