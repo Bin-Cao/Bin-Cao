@@ -36,11 +36,3 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 🔬 [Academic Introduction](https://bin-cao.github.io/caobin/)  | 🏠 [Personal Website](http://www.caobin.asia/)  | 📖 [Google Scholar Profile](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1)
 
----
-
-
-
-
-### 📣 WeChat Channel
-
-<img width="285" height="146" alt="Screenshot 2025-11-04 at 18 41 21" src="https://github.com/user-attachments/assets/87963042-b060-4339-acab-d2548d8f14de" />
