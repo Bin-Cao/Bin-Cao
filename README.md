@@ -2,7 +2,7 @@
 
 
 
-## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30">
+## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30"> My [AI assistant](https://huggingface.co/spaces/caobin/llm_assistant) 
 
 I am **Cao Bin**, working at the interdisciplinary of **computational materials science** and **artificial intelligence**. I obtained my B.E. from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), and I am currently affiliated with the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I conduct research under the supervision of [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html).
 
