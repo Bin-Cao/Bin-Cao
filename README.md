@@ -1,5 +1,3 @@
-<img width="468" height="278" alt="image" src="https://github.com/user-attachments/assets/56c85410-39b2-4354-a72a-6cc91c724ca1" />
-
 
 
 ## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30"> My [AI assistant](https://huggingface.co/spaces/caobin/llm_assistant) 
