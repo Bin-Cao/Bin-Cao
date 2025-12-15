@@ -19,6 +19,8 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 >
 > Please note that I do **not have the capacity** to respond to emails regarding basic issues such as debugging, file paths, training resource allocation, or general usage questions that are already addressed in the documentation. **For such matters, opening a GitHub Issue is strongly encouraged.**
 >
+> Emails without **clear identification** (real name, affiliation, and purpose) will not receive a response anymore.
+> 
 > For students interested in collaboration, **prior approval from your supervisor is required**. Please ensure that your supervisor is **copied (CC’ed)** on all emails sent to me.
 
 
