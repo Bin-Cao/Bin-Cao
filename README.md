@@ -15,6 +15,14 @@ My current research aims to integrate **machine learning methodologies** with **
 
 I am a strong proponent of **open science**, advocating for transparency, reproducibility, and community collaboration in computational research.
 
+> Due to the high volume of messages I receive, I kindly ask that before contacting me, you first clarify your questions and **carefully read the repository README thoroughly**.
+>
+> Please note that I do **not have the capacity** to respond to emails regarding basic issues such as debugging, file paths, training resource allocation, or general usage questions that are already addressed in the documentation. **For such matters, opening a GitHub Issue is strongly encouraged.**
+>
+> If you choose to contact me, please ensure your message is **concise, specific, and well-prepared**.
+>
+> For students interested in collaboration, **prior approval from your supervisor is required**. Please ensure that your supervisor is **copied (CC’ed)** on all emails sent to me.
+
 
 ---
 
