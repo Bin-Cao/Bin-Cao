@@ -9,13 +9,14 @@ Bin Cao received his Bachelor’s, MPhil, and PhD degrees from [Beijing Universi
 
 I am a strong proponent of **open science**, advocating for transparency, reproducibility, and community collaboration in computational research.
 
-> Due to the high volume of messages I receive, I kindly ask that before contacting me, you first clarify your questions and **carefully read the repository README thoroughly**.
+
+> Due to the large number of messages I receive, I kindly ask that you first take a moment to clarify your questions and **review the repository README** before reaching out.
 >
-> Please note that I do **not have the capacity** to respond to emails regarding basic issues such as debugging, file paths, training resource allocation, or general usage questions that are already addressed in the documentation. **For such matters, opening a GitHub Issue is strongly encouraged.**
+> As many common questions (e.g., debugging, file paths, resource allocation, or general usage) are already addressed in the documentation, I may be unable to reply to individual emails on these topics. **For quicker and more effective support, opening a GitHub Issue is highly recommended.**
 >
-> Emails without **clear identification** (real name, affiliation, and purpose) will not receive a response anymore.
-> 
-> For students interested in collaboration, **prior approval from your supervisor is required**. Please ensure that your supervisor is **copied (CC’ed)** on all emails sent to me.
+> To help me respond appropriately, please include **your name, affiliation, and the purpose of your message**. Messages without this information may not receive a reply.
+>
+> For students interested in collaboration, **please obtain prior approval from your supervisor** and ensure that your supervisor is **CC’ed** on any correspondence. Thank you very much for your understanding and interest.
 
 
 ---
