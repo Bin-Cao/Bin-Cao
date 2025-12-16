@@ -14,9 +14,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 >
 > As many common questions (e.g., debugging, file paths, resource allocation, or general usage) are already addressed in the documentation, I may be unable to reply to individual emails on these topics. **For quicker and more effective support, opening a GitHub Issue is highly recommended.**
 >
-> To help me respond appropriately, please include **your name, affiliation, and the purpose of your message**. Messages without this information may not receive a reply.
->
-> For students interested in collaboration, **please obtain prior approval from your supervisor** and ensure that your supervisor is **CC’ed** on any correspondence. Thank you very much for your understanding and interest.
+> To help me respond appropriately, please include **your name, affiliation, and the purpose of your message**. Messages without this information may not receive a reply. For students interested in collaboration, **please obtain prior approval from your supervisor** and ensure that your supervisor is **CC’ed** on any correspondence. Thank you very much for your understanding and interest.
 
 
 ---
