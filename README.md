@@ -11,7 +11,7 @@ Before joining HKUST (Guangzhou), I earned an **MPhil in Mechanics** at [Shangha
 
 In recent years, I have developed a series of machine-learning algorithms for **crystal structure determination** ([XQueryer](https://github.com/Bin-Cao/XQueryer)), **crystal property prediction** (PRDNet), and **novel crystal discovery** ([SimXRD](https://github.com/Bin-Cao/SimXRD)). This work has been published in leading materials science journals such as *National Science Review* and *Science Bulletin*, as well as top AI conferences including *ICLR*.
 
-One of my long-term projects, **Bgolearn**, received support from the *Shanghai Artificial Intelligence Open Source Award Project Support Plan*, where I serve as the [principal developer](https://github.com/Bin-Cao/Bgolearn/blob/main/figures/funding.png). The project was awarded **RMB 500,000** to support the development of the open-source [Bgolearn](https://github.com/Bin-Cao/Bgolearn) platform.Outside of research, I enjoy **jogging** and **watching movies**.
+One of my long-term projects, **Bgolearn**, received support from the *Shanghai Artificial Intelligence Open Source Award Project Support Plan*, where I serve as the [principal developer](https://github.com/Bin-Cao/Bgolearn/blob/main/figures/funding.png). The project was awarded **RMB 500,000** to support the development of the open-source [Bgolearn](https://github.com/Bin-Cao/Bgolearn) platform. Outside of research, I enjoy **jogging** and **watching movies**.
 
 
 
