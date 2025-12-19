@@ -3,7 +3,17 @@
 ## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30"> My [AI assistant](https://huggingface.co/spaces/caobin/llm_assistant) 
 
 
-Bin Cao received his Bachelor’s, MPhil, and PhD degrees from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), [Shanghai University](https://www.shu.edu.cn/) (supervisor : [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html)), and [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) (supervisor : [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html)) in 2020, 2023, and 2026 (expected), respectively. His research focuses on artificial intelligence for materials science, with particular emphasis on crystallography and spectroscopy. He has developed a series of machine learning algorithms for crystal structure determination ([XQueryer](https://github.com/Bin-Cao/XQueryer)), crystal property prediction(PRDNet), and novel crystal discovery([SimXRD](https://github.com/Bin-Cao/SimXRD)). He has published high-impact **first-author** research papers in *National Science Review*, *Science Bulletin*, *npj Computational Materials*, among other journals, and has also presented work at top-tier AI conferences such as *ICLR*. In 2025, he received support from the Shanghai Artificial Intelligence Open Source Award Project Support Plan as [principle developer](https://github.com/Bin-Cao/Bgolearn/blob/main/figures/funding.png), with RMB 500,000 in funding for the development of the [Bgolearn](https://github.com/Bin-Cao/Bgolearn) platform.
+
+
+I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). My research focuses on **artificial intelligence for materials science**, with particular emphasis on algorithm development for **crystallography and spectroscopy**. During my PhD, I have also been a visiting researcher at **City University of Hong Kong (CityUHK)**, working with [Prof. Ren Yang](https://scholars.cityu.edu.hk/en/persons/yangren/). 
+
+Before joining HKUST (Guangzhou), I earned an **MPhil in Mechanics** at [Shanghai University](https://www.shu.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). During this period, I also worked at [Zhejiang Laboratory](https://www.zhejianglab.org/) on **transfer learning for materials science**. I received my **BSc in Chemical Machinery** from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), where my work focused on **finite element simulations and chemical engineering problems**.
+
+In recent years, I have developed a series of machine-learning algorithms for **crystal structure determination** ([XQueryer](https://github.com/Bin-Cao/XQueryer)), **crystal property prediction** (PRDNet), and **novel crystal discovery** ([SimXRD](https://github.com/Bin-Cao/SimXRD)). This work has been published in leading materials science journals such as *National Science Review* and *Science Bulletin*, as well as top AI conferences including *ICLR*.
+
+One of my long-term projects, **Bgolearn**, received support from the *Shanghai Artificial Intelligence Open Source Award Project Support Plan*, where I serve as the [principal developer](https://github.com/Bin-Cao/Bgolearn/blob/main/figures/funding.png). The project was awarded **RMB 500,000** to support the development of the open-source [Bgolearn](https://github.com/Bin-Cao/Bgolearn) platform.Outside of research, I enjoy **jogging** and **watching movies**.
+
+
 
 
 
