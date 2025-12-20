@@ -5,7 +5,7 @@
 
 
 
-I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). My research focuses on **artificial intelligence for materials science**, with particular emphasis on algorithm development for **crystallography and spectroscopy**. During my PhD, I also served as a visiting student at **City University of Hong Kong**, working with [Prof. Ren Yang](https://scholars.cityu.edu.hk/en/persons/yangren/). 
+I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). My research focuses on **artificial intelligence for materials science**, with particular emphasis on algorithm development for **crystallography and spectroscopy**. During my PhD, I also served as a visiting student at **City University of Hong Kong**, working with [Prof. REN Yang](https://scholars.cityu.edu.hk/en/persons/yangren/). 
 
 Before joining HKUST (Guangzhou), I earned an **MPhil in Mechanics** at [Shanghai University](https://www.shu.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). During this period, I also interned  at [Zhejiang Laboratory](https://www.zhejianglab.org/) on **transfer learning for materials science**. I received my **BEng in Chemical Machinery** from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), where my work focused on **finite element and chemistry**.
 
