@@ -5,6 +5,7 @@
 
 
 
+
 I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). My research focuses on **artificial intelligence for materials science**, with particular emphasis on algorithm development for **crystallography and spectroscopy**. During my PhD, I also served as a visiting student at **City University of Hong Kong**, working with [Prof. REN Yang](https://scholars.cityu.edu.hk/en/persons/yangren/). 
 
 Before joining HKUST (Guangzhou), I earned an **MPhil in Mechanics** at [Shanghai University](https://www.shu.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). During this period, I also interned  at [Zhejiang Laboratory](https://www.zhejianglab.org/), where I worked on **transfer learning for materials science**. I received my **BEng in Chemical Machinery** from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), where my work focused on **finite element and chemistry**.
@@ -36,7 +37,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 <table>
   <tr>
     <td width="160" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/8abe1463-4845-45bc-9d50-4f2f91e4f785" width="140" style="border-radius: 50%;"/>
+      <img src="https://github.com/user-attachments/assets/fe1c1e61-788e-41ce-811a-8c3847a0d385" width="140" style="border-radius: 50%;"/>
     </td>
     <td valign="top">
       <b>Feel free to contact Mr. CAO Bin at:</b><br><br>
