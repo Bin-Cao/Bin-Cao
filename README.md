@@ -37,7 +37,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 <table>
   <tr>
     <td width="160" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/fe1c1e61-788e-41ce-811a-8c3847a0d385" width="140" style="border-radius: 50%;"/>
+      <img src="https://github.com/user-attachments/assets/6272b326-1a6a-4e98-afac-a6ba71942e80" width="140" style="border-radius: 50%;"/>
     </td>
     <td valign="top">
       <b>Feel free to contact Mr. CAO Bin at:</b><br><br>
