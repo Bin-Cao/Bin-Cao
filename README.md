@@ -33,7 +33,7 @@ I am a strong proponent of **open science**, advocating for transparency, reprod
 
 📌 **Quick Links**
 
-🔬 [Academic Introduction](https://bin-cao.github.io/caobin/)  | 🏠 [Personal Website](http://www.caobin.asia/)  | 📖 [Google Scholar Profile](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1)
+🔬 [Academic Page](https://bin-cao.github.io/)  | 🏠 [Personal Website](http://www.caobin.asia/)  | 📖 [Google Scholar Profile](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1)
 
 <table>
   <tr>
