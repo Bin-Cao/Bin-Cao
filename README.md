@@ -1,20 +1,20 @@
 
 
-## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30"> My [AI assistant](https://huggingface.co/spaces/caobin/llm_assistant) 
+## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30"> 
 
 
 
+I am a Research Scientist at Huawei Noah’s Ark Lab (London Research Center). My research focuses on AI for materials science, with an emphasis on developing algorithms for crystallography and spectroscopy using graph representation learning and Bayesian optimization.
+
+My research interest in this area has been shaped through a combination of interdisciplinary training and research experience across academia and industry. I received my Ph.D. from [The Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/) (Guangzhou Campus), where I worked with [Prof. Tong-Yi Zhang](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). During my Ph.D., I was also a visiting student at [City University of Hong Kong](https://www.cityu.edu.hk/), working with [Prof. Yang Ren](https://scholars.cityu.edu.hk/en/persons/yangren/), and gained industry research experience through internships at [Shanghai AI Laboratory](https://www.shlab.org.cn/) and [GreenDynamics](https://www.greendynamics.com.au/).
+
+Prior to my Ph.D., I obtained an MPhil in Mechanics from [Shanghai University](https://www.shu.edu.cn/) under the supervision of [Prof. Tong-Yi Zhang](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html), where I worked on transfer learning for materials science during an internship at [Zhejiang Laboratory](https://www.zhejianglab.org/). I received my BEng in Chemical Machinery from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), with a focus on finite element methods and chemistry.
+
+I have developed a series of machine learning methods for key problems in X-ray diffraction (XRD) and crystal analysis, including large-scale XRD pattern simulation ([SimXRD](https://github.com/Bin-Cao/SimXRD)), crystal structure determination ([XQueryer](https://github.com/Bin-Cao/XQueryer)), XRD pattern refinement ([WPEM](https://github.com/Bin-Cao/PyWPEM)), and crystal property prediction ([PRDNet](https://github.com/Bin-Cao/PRDNet)). In addition, I developed one of the first Bayesian optimization frameworks for materials discovery, [Bgolearn](https://github.com/Bin-Cao/Bgolearn), which has been selected for support under the Open Source Project Program of the Shanghai Municipal Commission of Economy and Informatization.
 
 
 
-I am a PhD student at [HKUST (Guangzhou)](https://www.hkust-gz.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). My research focuses on **artificial intelligence for materials science**, with particular emphasis on algorithm development for **crystallography and spectroscopy**. During my PhD, I also served as a visiting student at [City University of Hong Kong](https://www.cityu.edu.hk/), working with [Prof. REN Yang](https://scholars.cityu.edu.hk/en/persons/yangren/), and an intern at [Shanghai AI Lab](https://www.shlab.org.cn/), as well as at [GreenDynamics](https://www.greendynamics.com.au/). 
-
-Before joining HKUST (Guangzhou), I earned an **MPhil in Mechanics** at [Shanghai University](https://www.shu.edu.cn/), working with [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). During this period, I also interned  at [Zhejiang Laboratory](https://www.zhejianglab.org/), where I worked on **transfer learning for materials science**. I received my **BEng in Chemical Machinery** from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), where my work focused on **finite element and chemistry**.
-
-In recent years, I developed a series of machine learning algorithms for **large scale XRD pattern simulation** ([SimXRD](https://github.com/Bin-Cao/SimXRD)), **crystal structure determination** ([XQueryer](https://github.com/Bin-Cao/XQueryer)), **XRD pattern refinment** ([WPEM](https://github.com/Bin-Cao/PyWPEM)) and **crystal property prediction** ([PRDNet](https://github.com/Bin-Cao/PRDNet)). My first-author papers have appeared in materials science journals (e.g., National Science Review and Science Bulletin) and AI conferences such as ICLR.
-
-One of my long-term projects, **Bgolearn**, received support from the *Shanghai Artificial Intelligence Open Source Award Project Support Plan*, where I serve as the [principal developer](https://github.com/Bin-Cao/Bgolearn/blob/main/figures/funding.png). The project was awarded **RMB 500,000** to support the development of the open-source [Bgolearn](https://github.com/Bin-Cao/Bgolearn) platform. Outside of research, I enjoy **jogging** and **watching movies**.
-
+Outside of research, I enjoy jogging and going to the gym.
 
 
 
