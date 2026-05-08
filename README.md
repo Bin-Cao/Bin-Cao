@@ -3,8 +3,7 @@
 ## [Bin Cao 曹斌](http://www.caobin.asia/) <img src="./logo.jpeg" alt="Logo" width="30" height="30"> 
 
 
-
-I am a **Research Scientist** at [Noah’s Ark Lab](https://www.noahlab.com.hk/) (London Research Center). My research focuses on AI for materials science, with an emphasis on developing algorithms for crystallography and spectroscopy using graph representation learning and Bayesian optimization.
+I am a **Research Scientist** at the London Research Center of [Noah’s Ark Lab](https://www.noahlab.com.hk/). My research focuses on AI for materials science, with an emphasis on developing algorithms for crystallography and spectroscopy using graph representation learning and Bayesian optimization.
 
 My research interest in this area has been shaped through a combination of interdisciplinary training and research experience across academia and industry. I received my Ph.D. from [The Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/) (Guangzhou Campus), where I worked with [Prof. Tong-Yi Zhang](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html). During my Ph.D., I was also a visiting student at [City University of Hong Kong](https://www.cityu.edu.hk/), working with [Prof. Yang Ren](https://scholars.cityu.edu.hk/en/persons/yangren/), and gained industry research experience through internships at [Shanghai AI Lab](https://www.shlab.org.cn/) and [GreenDynamics](https://www.greendynamics.com.au/).
 
