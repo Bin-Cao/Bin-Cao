@@ -13,9 +13,9 @@
         <a href="http://www.caobin.asia/">Personal Website</a>
       </p>
       <p>
-        <strong>English</strong>
+        <a href="./README.md">English</a>
         ·
-        <a href="./README.zh-CN.md">中文</a>
+        <strong>中文</strong>
         ·
         <a href="./README.ja.md">日本語</a>
         ·
@@ -25,23 +25,23 @@
       </p>
     </td>
     <td width="32%" align="right" valign="top">
-      <img src="./assets/bincao.jpeg" width="210" alt="Portrait of Bin Cao">
+      <img src="./assets/bincao.jpeg" width="210" alt="曹斌形象照">
     </td>
   </tr>
 </table>
 
 ---
 
-## Before Contacting Me
+## 联系我之前
 
-Please review the repository README and existing GitHub Issues before sending an email.
+在发送邮件之前，请先阅读本仓库的 README，并查看已有的 GitHub Issues。
 
-For technical questions, bug reports, or usage issues, opening a GitHub Issue is strongly preferred and will usually receive a faster response.
+对于技术问题、错误报告或使用相关问题，强烈建议优先提交 GitHub Issue，通常也会获得更快的回复。
 
-When contacting me, please include:
+联系我时，请在邮件中包含以下信息：
 
-- Name
-- Affiliation
-- Purpose of the inquiry
+- 姓名
+- 所属单位
+- 咨询目的
 
-Students seeking collaboration should obtain approval from their supervisor and CC their supervisor in the correspondence.
+希望开展合作的学生，请先获得导师同意，并在邮件中抄送导师。

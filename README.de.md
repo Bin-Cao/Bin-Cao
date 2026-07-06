@@ -13,7 +13,7 @@
         <a href="http://www.caobin.asia/">Personal Website</a>
       </p>
       <p>
-        <strong>English</strong>
+        <a href="./README.md">English</a>
         ·
         <a href="./README.zh-CN.md">中文</a>
         ·
@@ -21,7 +21,7 @@
         ·
         <a href="./README.ko.md">한국어</a>
         ·
-        <a href="./README.de.md">Deutsch</a>
+        <strong>Deutsch</strong>
       </p>
     </td>
     <td width="32%" align="right" valign="top">
@@ -32,16 +32,16 @@
 
 ---
 
-## Before Contacting Me
+## Vor der Kontaktaufnahme
 
-Please review the repository README and existing GitHub Issues before sending an email.
+Bitte lesen Sie vor dem Senden einer E-Mail zuerst die README dieses Repositorys und prüfen Sie die vorhandenen GitHub Issues.
 
-For technical questions, bug reports, or usage issues, opening a GitHub Issue is strongly preferred and will usually receive a faster response.
+Bei technischen Fragen, Fehlerberichten oder Nutzungsproblemen wird dringend empfohlen, ein GitHub Issue zu eröffnen. In der Regel erhalten Sie dort schneller eine Antwort.
 
-When contacting me, please include:
+Bitte geben Sie bei der Kontaktaufnahme folgende Informationen an:
 
 - Name
-- Affiliation
-- Purpose of the inquiry
+- Zugehörigkeit
+- Zweck der Anfrage
 
-Students seeking collaboration should obtain approval from their supervisor and CC their supervisor in the correspondence.
+Studierende, die eine Zusammenarbeit anstreben, sollten vorab die Zustimmung ihrer Betreuungsperson einholen und diese in der E-Mail in CC setzen.
