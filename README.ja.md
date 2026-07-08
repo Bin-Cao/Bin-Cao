@@ -1,36 +1,8 @@
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-      <h1>Bin Cao · 曹斌</h1>
-      <p>
-        <img src="./assets/logo.jpeg" width="54" alt="Bin Cao logo">
-      </p>
-      <p>
-        <a href="https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1">Google Scholar</a>
-        ·
-        <a href="https://bin-cao.github.io/">Academic Page</a>
-        ·
-        <a href="http://www.caobin.asia/">Personal Website</a>
-      </p>
-      <p>
-        <a href="./README.md">English</a>
-        ·
-        <a href="./README.zh-CN.md">中文</a>
-        ·
-        <strong>日本語</strong>
-        ·
-        <a href="./README.ko.md">한국어</a>
-        ·
-        <a href="./README.de.md">Deutsch</a>
-      </p>
-    </td>
-    <td width="32%" align="right" valign="top">
-      <img src="./assets/bincao.jpeg" width="210" alt="Bin Cao portrait">
-    </td>
-  </tr>
-</table>
+# Bin Cao · 曹斌
 
----
+**リンク:** [Google Scholar](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN&authuser=1) · [Academic Page](https://bin-cao.github.io/) · [Personal Website](http://www.caobin.asia/)
+
+**言語:** [English](./README.md) · [中文](./README.zh-CN.md) · **日本語** · [한국어](./README.ko.md) · [Deutsch](./README.de.md)
 
 ## ご連絡の前に
 
